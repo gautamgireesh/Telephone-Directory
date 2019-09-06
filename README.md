@@ -1,2 +1,2 @@
 # Telephone-Directory
-Created a telephone directory data base completely using C++ 
+Created a database where data can be stored, updated, delated using classes and inheritence. 
